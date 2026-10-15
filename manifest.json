@@ -1,0 +1,9 @@
+{
+  "id": "code-vision",
+  "name": "CodeVision",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Paste a screenshot of code and get a fenced code block with the language detected, using the Gemini API.",
+  "author": "zac06",
+  "isDesktopOnly": false
+}
