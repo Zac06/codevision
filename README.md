@@ -21,7 +21,6 @@ Made for notes taken from lecture slides, where the code is an image and can't b
 1. Create a free API key in [Google AI Studio](https://aistudio.google.com/).
 2. Open Settings → CodeVision and paste the key.
 3. Choose a model. *Browse models* lists the ones your key can use. A Flash-Lite model is fast and works well for clean slides.
-4. Optional: set a fallback model. It is tried automatically when the main model is busy (503), fails (500) or hits its quota (429).
 
 ## Use
 
