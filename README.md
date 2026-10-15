@@ -14,7 +14,7 @@ Made for notes taken from lecture slides, where the code is an image and can't b
 
 **With BRAT:** install the BRAT plugin, choose *Add beta plugin* and paste this repository's URL.
 
-**Manually:** download `main.js`, `manifest.json` and `styles.css` from the latest release into `<your vault>/.obsidian/plugins/code-vision/`, then enable *CodeVision* under Settings → Community plugins.
+**Manually:** download `codevision.zip` from the latest release and extract it into `<your vault>/.obsidian/plugins/`. The zip already contains the `code-vision` folder, so you end up with `.obsidian/plugins/code-vision/main.js`. (`.obsidian` is a hidden folder.) Then reload the plugin list and enable *CodeVision* under Settings → Community plugins.
 
 ## Set up
 
